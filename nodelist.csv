@@ -1,0 +1,35 @@
+﻿ID,Name
+V1,A Human population
+V2,B New land development
+V3,C Forest and ag land conversion
+V4,D Urban redevelopment
+V5,E Impaired riparian func
+V6,F Shift in flow quantity/timing
+V7,G River temp
+V8,H Nutrients local scale
+V9,I Toxics/ Bacteria
+V10,J Instream habitat conditions
+V11,L Nearshore/estuarine hab
+V12,M Water temp PS
+V13,N Nutrients PS
+V14,O Dissolved oxygen
+V15,P Phytoplankton/Detritus
+V16,Q Zooplankton
+V17,R Anadromous fish PS
+V18,S Marine mammals
+V19,T Bivalve shellfish
+V20,U Property values
+V21,V Jobs / livelihoods
+V22,W Tourism
+V23,X Commerce/ economic activity
+V24,Y Products of working lands/waters
+V25,Z Water provision/ security
+V26,AA Food provision/ security
+V27,AB Outdoor recreation
+V28,AC  Wild-caught fisheries
+V29,AD Drivers of social change
+V30,AE Sense of place
+V31,AF Human health
+V32,AG Tribal fishing access
+V33,AH Environmental hazards
+V34,AI Cultural wellbeing
